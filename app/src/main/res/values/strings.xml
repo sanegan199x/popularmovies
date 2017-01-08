@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+    <string name="action_setting">Setting</string>
+    <string name="action_refresh">Refresh</string>
+
+    <string name="trailers_label">Trailers</string>
+
+    <!-- Account type (for sync-adapter authenticator) -->
+    <!-- SyncAdapter related -->
+    <string name="sync_account_type">popularmovies.example.com</string>
+    <string name="content_authority">attt.bk.hanoi.popularmovies.app</string>
+</resources>
